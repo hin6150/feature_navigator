@@ -1,4 +1,4 @@
-import 'package:feature_navigator/feature_router.dart';
+import 'package:accessibility_navigation/feature_router.dart';
 import 'package:flash_card_app/repository/card_repo.dart';
 import 'package:flash_card_app/utill/router.dart';
 import 'package:flutter/material.dart';

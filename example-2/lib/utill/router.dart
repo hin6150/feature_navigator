@@ -1,4 +1,4 @@
-import 'package:feature_navigator/feature_router.dart';
+import 'package:accessibility_navigation/feature_router.dart';
 import 'package:flash_card_app/view/category_list_page.dart';
 import 'package:flash_card_app/view/category_page.dart';
 import 'package:flash_card_app/view/main_page.dart';

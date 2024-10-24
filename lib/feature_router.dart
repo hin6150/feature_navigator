@@ -1,5 +1,5 @@
-import 'package:feature_navigator/provider/feature_router_provider.dart';
-import 'package:feature_navigator/view/chat_page.dart';
+import 'package:accessibility_navigation/provider/feature_router_provider.dart';
+import 'package:accessibility_navigation/view/chat_page.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

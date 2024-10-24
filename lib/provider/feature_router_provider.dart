@@ -1,7 +1,7 @@
 // lib/provider/route_data_provider.dart
 
-import 'package:feature_navigator/feature_router.dart';
-import 'package:feature_navigator/model/feature_router.dart';
+import 'package:accessibility_navigation/feature_router.dart';
+import 'package:accessibility_navigation/model/feature_router.dart';
 import 'package:go_router/go_router.dart';
 
 class RouteDataProvider {

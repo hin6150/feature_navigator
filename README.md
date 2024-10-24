@@ -1,8 +1,8 @@
-# Feature Navigator
+# Accessibility Navigation
 
 ## Overview
 
-**Feature Navigator** is a Flutter package that enhances your application's navigation by allowing users to search for specific features using a chatbot interface. It extends the capabilities of the `go_router` package by introducing `FeatureRoute`, which includes additional properties like `name`, `description`, and supports advanced features like dynamic parameters and multiple `extra` data entries for better route management and accessibility.
+**Accessibility Navigation** is a Flutter package that enhances your application's navigation by allowing users to search for specific features using a chatbot interface. It extends the capabilities of the `go_router` package by introducing `FeatureRoute`, which includes additional properties like `name`, `description`, and supports advanced features like dynamic parameters and multiple `extra` data entries for better route management and accessibility.
 
 ## Features
 
@@ -17,10 +17,10 @@
 
 ## Installation
 
-Add the `feature_navigator` package to your project:
+Add the `accessibility_navigation` package to your project:
 
 ```bash
-flutter pub add feature_navigator
+flutter pub add accessibility_navigation
 ```
 
 ## Usage

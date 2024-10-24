@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:feature_navigator/model/gpt_model.dart';
-import 'package:feature_navigator/provider/feature_router_provider.dart';
+import 'package:accessibility_navigation/model/gpt_model.dart';
+import 'package:accessibility_navigation/provider/feature_router_provider.dart';
 import 'package:http/http.dart' as http;
 
 class GPTService {

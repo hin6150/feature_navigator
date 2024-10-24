@@ -1,8 +1,8 @@
-import 'package:feature_navigator/component/custom_button.dart';
-import 'package:feature_navigator/model/gpt_model.dart';
-import 'package:feature_navigator/model/utils.dart';
-import 'package:feature_navigator/provider/gpt_service.dart';
-import 'package:feature_navigator/provider/search_history.dart';
+import 'package:accessibility_navigation/component/custom_button.dart';
+import 'package:accessibility_navigation/model/gpt_model.dart';
+import 'package:accessibility_navigation/model/utils.dart';
+import 'package:accessibility_navigation/provider/gpt_service.dart';
+import 'package:accessibility_navigation/provider/search_history.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

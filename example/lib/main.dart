@@ -1,5 +1,5 @@
+import 'package:accessibility_navigation/feature_router.dart';
 import 'package:example/screens.dart';
-import 'package:feature_navigator/feature_router.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
