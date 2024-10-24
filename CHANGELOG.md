@@ -8,6 +8,11 @@
 
 [0.0.3]
 
-- Add new Example
 - Update Feature Route features
+- fix bugs
+
+[0.0.4]
+
+- Add new Example
+- Support Extra in Feature Route
 - fix bugs
