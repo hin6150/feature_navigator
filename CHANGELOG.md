@@ -16,3 +16,7 @@
 - Add new Example
 - Support Extra in Feature Route
 - fix bugs
+
+[0.0.5]
+
+- fix example-2 to example_2
